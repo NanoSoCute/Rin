@@ -7,9 +7,9 @@ Hi, I'm Gayz!   <img src="#NoImage" height="40px">
 <hr>
 
 ```
-xiaLynx@github
+xia@github
 -------------------------
-👋 My name's Gay, I'm 14yo
+👋 My name's Lynx, I'm 13-14yo
 💻 I am a self taught Programer
 🔭 Working on Full stack Developer & Programer
 🌱 Learning about Web developer, Software developer
@@ -20,7 +20,7 @@ xiaLynx@github
 <hr>
 
 <h2> / current skills / </h2>
-<img align="right" width="300"alt="justanimage" src=" #NoImage "/>
+<img align="right" width="300"alt="justanimage" src="https://github.com/xiaLynx/xiaLynx/blob/main/%F0%93%85%B0%20H%E1%B4%9C%20T%E1%B4%80%E1%B4%8F%20W%E1%B4%80%CA%9F%CA%9F%E1%B4%98%E1%B4%80%E1%B4%98%E1%B4%87%CA%80%20%F0%9F%A4%8D%F0%9F%92%A6%E2%99%95%EF%B8%8E.jpg"/>
 
 - <h4> languages </h4>
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
