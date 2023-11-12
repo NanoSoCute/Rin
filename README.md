@@ -13,7 +13,11 @@ xia@github
 🌟 Main languages: Python, Java
 🚩 Interested in Software developer
 🎵 Love Tantaihaha
+
 ```
+## 🎶 Current Playlist
+
+[Click here to listen to the playlist](https://music.apple.com/th/playlist/favv/pl.u-qxylEyxC3a5g1K9)
 <hr>
 
 <h2> / current skills / </h2>
@@ -32,10 +36,6 @@ xia@github
 - <h4> Used Browser </h4>
    <img src="https://img.shields.io/badge/google-chrome?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GooleChrome">
    <img src="https://img.shields.io/badge/brave-browser?style=for-the-badge&logo=brave&logoColor=white" alt="Brave">
-
-### My Favorite Apple Music Playlist 🎵
-
-[Listen on Apple Music](https://music.apple.com/th/playlist/favv/pl.u-qxylEyxC3a5g1K9)
 
 
 
