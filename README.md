@@ -6,7 +6,7 @@ Hi, I'm Xia!   <img src="#NoImage" height="40px">
 ```
 xia@github
 -------------------------
-👋 My name's Lynx, I'm 13-14yo
+👋 My name's Xia, I'm 13-14yo
 💻 I am a self taught Programer
 🔭 Working on Full stack Developer & Programer
 🌱 Learning about Web developer, Software developer
